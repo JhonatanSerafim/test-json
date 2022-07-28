@@ -1,0 +1,10 @@
+{
+    "nome": "Jhonatan",
+    "idade": 32,
+    "esta_trabalhando": true,
+    "hobbies": ["Eletrônica", "Fotografia", "Ler" ],
+    "detalhes_profissao": {
+        "profissao": "programador",
+        "empresa": "DevSerafim"
+    }
+}
